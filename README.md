@@ -7,7 +7,7 @@ For more information on the findings, please click [here](https://github.com/car
 Please note that this project is still being worked on, here are the projects objectives:
 - [x] Player Nationality Analysis at Week 6
 - [ ] Current Player Nationality Analysis (Week 13)
-- [x] Centremen Player Performance
+- [x] [Centremen Player Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Centremen_Insights.md)
 - [x] Centremen Overall Performance Comparison
 - [ ] Defensemen Player Performance
 - [ ] Defensemen Overall Performance Comparison
