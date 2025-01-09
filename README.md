@@ -7,8 +7,7 @@ For more information on the findings, please click [here](https://github.com/car
 Please note that this project is still being worked on, here are the projects objectives:
 - [x] [Player Nationality Insights](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Nationality_Insights.md)
 - [x] [Centremen Player Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Centremen_Insights.md)
-- [x] [Centremen Overall Performance Comparison](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Centremen_Insights.md)
-- [ ] Defensemen Player Performance
+- [ ] [Defensemen Player Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/defensemen_Insights.md)
 - [ ] Defensemen Overall Performance Comparison
 - [ ] Goalie Player Performance
 - [ ] Goalie Overall Performance Comparison
