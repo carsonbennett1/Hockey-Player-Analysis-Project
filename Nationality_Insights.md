@@ -17,3 +17,11 @@ The information in the analysis below applies to players who contributed points 
 While the fantasy league I was in had a ceiling on the number of players who could contribute to your team, there is the option to add and drop other players if you desire. Because I took advantage of this strategy to change out players who were not performing well, the insights provided below will not always be consistent.
 
 As seen below, the players I had in Week 6 were not the same as the ones I have in Week 13. Because of this, nationality insights will change slightly from week to week.
+
+#### Nationality Insights at NHL Week 1
+
+![Week1](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/nationality_week1.png)
+
+#### Nationality Insights at NHL Week 13
+
+![Week13](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/nationality_week13.png)
