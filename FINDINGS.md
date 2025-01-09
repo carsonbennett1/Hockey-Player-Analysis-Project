@@ -30,4 +30,4 @@ Data Analysis Graphs Below.
 
 ![Centremen Points by Week](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/centremen_point_by_week.png)
 
-![Centremen Point Sum](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/proj_img/centremen_point_sum.png)
+![Centremen Point Sum](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/centremen_point_summary.png)
