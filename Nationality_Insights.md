@@ -16,12 +16,12 @@ The information in the analysis below applies to players who contributed points 
 #### Roster Management
 The fantasy league I am in has a ceiling on the number of players who can contribute to your team. However, the nationality of these players is constatnly changing because:
 1. Add/Drop Option: 
-There is the option to add and drop your players if you they are not performing well, or you have too many of one position. 
+There is the option to add and drop your players if they are not performing well, or there are too many players of one position. 
 
 2. Managing Injury Reserves:
-Players that get injured are not always dropped, but rather put on injury reserve (IR). When placed on IR, team managers are able to add a player without dropping the injured one. 
+Players often get injured, but they are not always dropped. Instead, team managers will put them on injury reserve (IR). When placed on IR, team managers are able to add a player without dropping the injured one. 
 
-Because I took advantage of these strategies to change out players who were not performing well, or injured, the insights provided below will not always be consistent.
+Because I took advantage of these strategies to change out players who were not performing well or injured, the insights provided below will not always be consistent. However, they still convey an idea of the nationality behing the fantasy point production of my team.
 
 #### Nationality Insights at NHL Week 1
 
