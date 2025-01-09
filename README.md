@@ -2,7 +2,7 @@
 
 This personal project analyzes NHL player performance over the 2024-25 NHL season. It is important to consider that these insights are constantly changing as the 2024-25 season is still active.
 
-For more information on the findings, please click [here](https://github.com/carsonbennett1/Hockey-Fantasy/blob/main/FINDINGS.md)
+For more information on the findings, please click [here](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/FINDINGS.md)
 
 Please note that this project is still being worked on, here are the projects objectives:
 - [x] Player Nationality Analysis at Week 6
