@@ -23,6 +23,10 @@ Players often get injured, but they are not always dropped. Instead, team manage
 
 Because I took advantage of these strategies to change out players who were not performing well or injured, the insights provided below will not always be consistent. However, they still convey an idea of the nationality behing the fantasy point production of my team.
 
+#### Nationality of Fantasy Team
+
+![all_time]
+
 #### Nationality Insights at NHL Week 1
 
 ![Week1](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/nationality_week1.png)
