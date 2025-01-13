@@ -34,6 +34,6 @@ The pie chart below demonstrates the nationality of the players that were on my 
 ![Week1](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/nationality_week1.png)
 
 ### Nationality Insights at NHL Week 13
-The pie chart below demonstrates the nationality of the players that were on my fantasy team at the beginning of week 3.
+The pie chart below demonstrates the nationality of the players that were on my fantasy team at the beginning of week 13.
 
 ![Week13](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/nationality_week13.png)
