@@ -6,4 +6,4 @@
 
 ### Defensemen Point Summary
 
-![sum](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/defensemen_point_totals.png)
+![sum](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/defense_point_totals.png)
