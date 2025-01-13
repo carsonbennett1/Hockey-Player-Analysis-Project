@@ -24,13 +24,16 @@ Players often get injured, but they are not always dropped. Instead, team manage
 Because I took advantage of these strategies to change out players who were not performing well or injured, the insights provided below will not always be consistent. However, they still convey an idea of the nationality behing the fantasy point production of my team.
 
 #### Nationality of Fantasy Team
+The pie chart below demonstartes the nationality of the players in my fantasy through 13 weeks. This pie chart includes all players including those that have been dropped prior to week 13 AND have been active on my team for more than 1 week.
 
-![all_time]
+![all_time](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/player_nationality_overall.png)
 
 #### Nationality Insights at NHL Week 1
+The pie chart below demonstrates the nationality of the players that were on my fantasy team following the draft.
 
 ![Week1](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/nationality_week1.png)
 
 #### Nationality Insights at NHL Week 13
+The pie chart below demonstrates the nationality of the players that were on my fantasy team at the beginning of week 3.
 
 ![Week13](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/nationality_week13.png)
