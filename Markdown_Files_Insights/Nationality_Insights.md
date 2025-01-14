@@ -13,6 +13,8 @@ The information in the analysis below applies to players who contributed points 
 |Not Available (NA)|1|
 |MAX Total|23|
 
+To go back to main page, click [here](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/tree/main)
+
 #### Roster Management
 The fantasy league I am in has a ceiling on the number of players who can contribute to your team. However, the nationality of these players is constatnly changing because:
 1. #### Add/Drop Option: 
