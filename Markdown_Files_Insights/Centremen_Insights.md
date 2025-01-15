@@ -13,4 +13,5 @@ In this section, I analyze the points attained by players who strictly play the 
 ### Centre Boxplot Insights
 
 ![box](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/centre_boxplot.png)
+
 ![box_two](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/img/centre_boxplot_nan_excluded.png)
