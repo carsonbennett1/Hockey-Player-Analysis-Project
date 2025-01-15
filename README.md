@@ -6,8 +6,8 @@ For more information on the findings, please click [here](https://github.com/car
 
 Please note that this project is still being worked on, here are the projects objectives:
 - [x] [Player Nationality Insights](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/Nationality_Insights.md)
-- [ ] [Nationality Performance]()
-- [ ] [Player Position Insights](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/Position_Insights.md) - Ongoing
+- [ ] [Nationality Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/Nationality_Performance.md) - Ongoing/Incomplete
+- [ ] [Player Position Insights](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/Position_Insights.md) - Ongoing/Incomplete
 - [x] [Centremen Player Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/Centremen_Insights.md)
-- [ ] [Defensemen Player Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/defensemen_insights.md) - Ongoing
-- [ ] [Goalie Player Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/Goalie_Insights.md) - Ongoing
+- [ ] [Defensemen Player Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/defensemen_insights.md) - Ongoing/Incomplete
+- [ ] [Goalie Player Performance](https://github.com/carsonbennett1/Hockey-Player-Analysis-Project/blob/main/Markdown_Files_Insights/Goalie_Insights.md) - Ongoing/Incomplete
